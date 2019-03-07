@@ -85,6 +85,8 @@ Both of these challenges encompasses a real-world situation where your newfound 
 
 * In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
+python3 main.py > output.txt
+
 ## Hints and Considerations
 
 * Consider what we've learned so far. To date, we've learned how to import modules like `csv`; to read and write files in various formats; to store contents in variables, lists, and dictionaries; to iterate through basic data structures; and to debug along the way. Using what we've learned, try to break down you tasks into discrete mini-objectives. This will be a _much_ better course of action than attempting to Google Search for a miracle.
